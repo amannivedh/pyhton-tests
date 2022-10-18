@@ -5,6 +5,7 @@ b = input("b: ")
 
 ####################################
 #Write your code below this line 👇
+#code to swap
 temp=a
 a=b
 b=temp
